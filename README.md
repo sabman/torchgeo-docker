@@ -2,6 +2,10 @@
 
 This repository implements the follow workflow to build a release docker container whenever it detects a new release tag from the offical torchgeo repository
 
+
+See [Publishing images to Docker Hub](https://docs.github.com/en/actions/publishing-packages/publishing-docker-images#publishing-images-to-docker-hub)
+
+
 ![](build-workflow.png)
 # Hello world docker action
 
