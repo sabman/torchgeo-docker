@@ -1,3 +1,8 @@
+# TorchGeo Docker Build
+
+This repository implements the follow workflow to build a release docker container whenever it detects a new release tag from the offical torchgeo repository
+
+![](build-workflow.png)
 # Hello world docker action
 
 This action prints "Hello World" or "Hello" + the name of a person to greet to the log.
